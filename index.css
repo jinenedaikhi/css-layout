@@ -1,0 +1,247 @@
+header {
+    display: flex;
+    justify-content: space-around;
+
+    background-color: #fff;
+    width: 100%;
+    position: fixed;
+    top: 0;
+}
+
+nav {
+    width: 30%;
+
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+nav a {
+    color: grey;
+}
+
+.b2 {
+    margin-top: 5%;
+}
+
+.logo {
+    font-weight: 500;
+
+}
+
+.green {
+    background-color: green;
+}
+
+.box {
+    border-radius: 15px;
+    padding: 15px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    align-content: start;
+}
+
+.box img {
+    width: 20px;
+}
+
+.box p {
+    color: white;
+    text-align: center;
+    font-size: 1.15em;
+}
+
+div {
+    color: black;
+}
+
+.blue {
+    background-color: royalblue;
+}
+
+.black {
+    background-color: black;
+}
+
+div h3 {
+    color: white
+}
+
+.b2 {
+    justify-content: center;
+    text-align: center;
+}
+
+.b3 {
+    display: flex;
+
+}
+
+.container {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.nav {
+    position: sticky;
+}
+
+.b2 h1 {
+    color: rgb(0, 128, 90);
+}
+
+.R2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.R2 div {
+    display: flex;
+    flex-wrap: wrap;
+    width: 70%;
+}
+
+.R2 a {
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    margin-right: 40px;
+    right: 40px;
+    color: #ababab;
+}
+
+.R2 h2 {
+    text-align: left;
+    color: rgb(162, 218, 162);
+    width: 50%;
+}
+
+
+.banner {
+    display: flex;
+    justify-content: space-between;
+    margin-top: -10px;
+}
+
+.banner1 {
+    width: 50%;
+    flex-direction: column;
+    display: flex;
+}
+
+.banner2 {
+    width: 50%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: space-between;
+    padding-top: 60px;
+    padding-right: 60px;
+}
+
+.patient.doctor {
+    margin-top: -10px;
+}
+
+.bannerCard {
+    background-color: #fff;
+    height: 40%;
+    width: 30%;
+    overflow: hidden;
+}
+
+.bannerCardMargin {
+    margin-top: -20px;
+}
+
+/* .flag{
+        background-color: #fff;
+        width: 30%;
+        height: 30%;
+        overflow: hidden;
+    }
+    
+    .visit{
+        background-color: #fff;
+        width: 30%;
+      
+    }
+    
+    .patient{
+        background-color: #fff;
+        width: 30%;
+        
+    }
+    
+    .doctor{
+        background-color: #fff;
+        width: 30%;
+        
+    } */
+section.banner {
+    background-color: rgb(147, 149, 156);
+}
+
+button {
+    background-color: #008CBA;
+    border: none;
+    color: white;
+}
+
+.warsaw {
+    background-color: white;
+    width: 30%;
+    height: 20%;
+}
+
+.barcelona {
+    background-color: white;
+    width: 30%;
+    height: 20%;
+}
+
+.istanbul {
+    background-color: white;
+    width: 30%;
+    height: 20%;
+}
+
+.rome {
+    background-color: white;
+    width: 30%;
+    height: 20%;
+}
+
+.curitiba {
+    background-color: white;
+    width: 30%;
+    height: 20%;
+}
+
+.mexico {
+    background-color: white;
+    width: 30%;
+    height: 20%;
+}
+
+
+.country {
+    display: flex;
+    align-content: flex-start;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.jjj h1 {
+    color: blue;
+    text-align: center;
+}
+
+.jjj h2 {
+    text-align: center;
+    color: gray;
+
+}
